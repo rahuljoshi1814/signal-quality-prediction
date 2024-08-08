@@ -5,7 +5,7 @@ This project involves building and evaluating a deep learning model to predict t
 In this project, building and evaluate a deep learning model to predict the signal strength of communication equipment. The project includes the following key steps:
 
 - Data Import and Understanding: explore the dataset to understand its structure, features, and target variable.
-- Data Preprocessing: The data is preprocessed by splitting it into features (X) and target variable (Y), followed by splitting it into training and testing sets, - - normalizing the features, and encoding the target variable for neural network compatibility.
+- Data Preprocessing: The data is preprocessed by splitting it into features (X) and target variable (Y), followed by splitting it into training and testing sets, - normalizing the features, and encoding the target variable for neural network compatibility.
 - Model Design and Training: A neural network model is designed and trained on the preprocessed data.and then experiment with different architectures to improve model performance.
 - Model Evaluation: The trained models are evaluated on the test set, and the results are visualized using training and validation loss/accuracy plots.
 - Performance Improvement: updation of the model architecture to enhance performance and compare the results with the initial model.
